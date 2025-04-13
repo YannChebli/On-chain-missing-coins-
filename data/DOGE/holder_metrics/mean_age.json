@@ -1,0 +1,13 @@
+{
+    "metric": "mean_age",
+    "cryptocurrency": "DOGE",
+    "category": "holder_metrics",
+    "last_updated": "2025-04-13T18:21:24.354548Z",
+    "data": [
+        {
+            "timestamp": "2025-03-14T00:00:00.000000Z",
+            "datetime": "2025-03-14 00:00:00",
+            "value": 1006.661319627459
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "metric": "transaction_volume",
+    "cryptocurrency": "DOGE",
+    "category": "network_metrics",
+    "last_updated": "2025-04-13T18:21:27.431000Z",
+    "data": [
+        {
+            "timestamp": "2025-03-14T00:00:00.000000Z",
+            "datetime": "2025-03-14 00:00:00",
+            "value": 95544608.86842808
+        }
+    ]
+}
