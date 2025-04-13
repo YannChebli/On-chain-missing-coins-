@@ -1,0 +1,345 @@
+{
+    "metadata": {
+        "generated_at": "2025-04-13T18:30:49Z",
+        "cryptocurrencies": [
+            "BTC",
+            "XRP",
+            "DOGE",
+            "LTC"
+        ],
+        "time_period": "30 days",
+        "data_source": "Santiment API"
+    },
+    "market_analysis": {
+        "BTC": {
+            "price_metrics": {
+                "current_price": 84614.55117592441,
+                "price_change_24h": -0.007796945200197025,
+                "price_change_7d": 0.08173240964010686,
+                "price_volatility": 0.043282134619037814,
+                "price_trend": [
+                    79133.49911320987,
+                    76261.37707472194,
+                    82527.41277843207,
+                    79625.04814072048,
+                    83404.51699304495,
+                    85279.47053438281,
+                    84614.55117592441
+                ]
+            },
+            "volume_metrics": {
+                "current_volume": 26406842358.0,
+                "volume_change_24h": 0.08858018049950589,
+                "volume_trend": [
+                    90526439650.0,
+                    48032458437.0,
+                    84080117036.0,
+                    44718000633.0,
+                    41656778779.0,
+                    24258059104.0,
+                    26406842358.0
+                ]
+            }
+        },
+        "XRP": {
+            "price_metrics": {
+                "current_price": 2.178341897601,
+                "price_change_24h": 0.009130074698488366,
+                "price_change_7d": 0.13632596405988684,
+                "price_volatility": 0.0680872672787024,
+                "price_trend": [
+                    1.897753798838,
+                    1.794502062132,
+                    2.051751908499,
+                    1.966497282932,
+                    2.023886775306,
+                    2.158633413291,
+                    2.178341897601
+                ]
+            },
+            "volume_metrics": {
+                "current_volume": 3761790444.0,
+                "volume_change_24h": 0.09692692868749009,
+                "volume_trend": [
+                    14383598177.0,
+                    6468324898.0,
+                    9381130206.0,
+                    4463765886.0,
+                    3459211572.0,
+                    3429390186.0,
+                    3761790444.0
+                ]
+            }
+        },
+        "DOGE": {
+            "price_metrics": {
+                "current_price": 0.167454921346,
+                "price_change_24h": -0.0009319548020352286,
+                "price_change_7d": 0.12612948668991075,
+                "price_volatility": 0.060923544095048715,
+                "price_trend": [
+                    0.149520376964,
+                    0.142108953652,
+                    0.16037097926,
+                    0.15366808465,
+                    0.160089104867,
+                    0.167611127341,
+                    0.167454921346
+                ]
+            },
+            "volume_metrics": {
+                "current_volume": 812334151.0,
+                "volume_change_24h": -0.06391861373223562,
+                "volume_trend": [
+                    3512035481.0,
+                    1829881699.0,
+                    2265462273.0,
+                    1231567926.0,
+                    864574135.0,
+                    867802910.0,
+                    812334151.0
+                ]
+            }
+        },
+        "LTC": {
+            "price_metrics": {
+                "current_price": 79.779097024409,
+                "price_change_24h": 0.015025835058562587,
+                "price_change_7d": 0.13326617613163116,
+                "price_volatility": 0.0438851062840559,
+                "price_trend": [
+                    70.970973787686,
+                    69.093614333057,
+                    76.011819890336,
+                    73.727124836262,
+                    76.212628299996,
+                    78.598095012829,
+                    79.779097024409
+                ]
+            },
+            "volume_metrics": {
+                "current_volume": 344680869.0,
+                "volume_change_24h": -0.053477507264221846,
+                "volume_trend": [
+                    1102503251.0,
+                    520346488.0,
+                    775644355.0,
+                    443121281.0,
+                    396930539.0,
+                    364154969.0,
+                    344680869.0
+                ]
+            }
+        }
+    },
+    "network_health": {
+        "BTC": {
+            "active_addresses": {
+                "current": 617353.0,
+                "trend": [
+                    778144.0,
+                    741076.0,
+                    724344.0,
+                    765978.0,
+                    767483.0,
+                    648936.0,
+                    617353.0
+                ]
+            },
+            "transaction_metrics": {
+                "volume": 39849.78197782002,
+                "avg_per_address": 0.06454942630524194
+            },
+            "circulation": 19850380.333700463
+        },
+        "XRP": {
+            "active_addresses": {
+                "current": 33990.0,
+                "trend": [
+                    53471.0,
+                    44315.0,
+                    45615.0,
+                    37581.0,
+                    37601.0,
+                    35370.0,
+                    33990.0
+                ]
+            },
+            "transaction_metrics": {
+                "volume": 50236590.97188375,
+                "avg_per_address": 1477.981493730031
+            },
+            "circulation": 99979856378.3164
+        },
+        "DOGE": {
+            "active_addresses": {
+                "current": 67778.0,
+                "trend": [
+                    77291.0,
+                    71905.0,
+                    102780.0,
+                    86331.0,
+                    68324.0,
+                    67244.0,
+                    67778.0
+                ]
+            },
+            "transaction_metrics": {
+                "volume": 95544608.86842808,
+                "avg_per_address": 1409.6699352065284
+            },
+            "circulation": 148829293210.75708
+        },
+        "LTC": {
+            "active_addresses": {
+                "current": 367811.0,
+                "trend": [
+                    382721.0,
+                    389680.0,
+                    375797.0,
+                    400248.0,
+                    401591.0,
+                    378605.0,
+                    367811.0
+                ]
+            },
+            "transaction_metrics": {
+                "volume": 12167917.02911201,
+                "avg_per_address": 33.08198240159215
+            },
+            "circulation": 75739638.62283221
+        }
+    },
+    "development_activity": {
+        "BTC": {
+            "github_activity": {
+                "current": 86.0,
+                "trend": [
+                    179.0,
+                    159.0,
+                    151.0,
+                    213.0,
+                    156.0,
+                    85.0,
+                    86.0
+                ]
+            },
+            "dev_metrics": {
+                "current_activity": 42.0,
+                "momentum": 0.5017064846416383,
+                "trend": [
+                    108.0,
+                    83.0,
+                    104.0,
+                    133.0,
+                    77.0,
+                    39.0,
+                    42.0
+                ]
+            }
+        },
+        "XRP": {
+            "github_activity": {
+                "current": 1.0,
+                "trend": [
+                    203.0,
+                    151.0,
+                    212.0,
+                    182.0,
+                    187.0,
+                    10.0,
+                    1.0
+                ]
+            },
+            "dev_metrics": {
+                "current_activity": 5.0,
+                "momentum": 0.04569190600522193,
+                "trend": [
+                    160.0,
+                    133.0,
+                    173.0,
+                    144.0,
+                    146.0,
+                    5.0,
+                    5.0
+                ]
+            }
+        },
+        "DOGE": {
+            "github_activity": {
+                "current": 2.0,
+                "trend": [
+                    2.0,
+                    4.0,
+                    0.0,
+                    4.0,
+                    1.0,
+                    3.0,
+                    2.0
+                ]
+            },
+            "dev_metrics": {
+                "current_activity": 0.0,
+                "momentum": 0.0,
+                "trend": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        "LTC": {
+            "github_activity": {
+                "current": 2.0,
+                "trend": [
+                    1.0,
+                    2.0,
+                    0.0,
+                    4.0,
+                    1.0,
+                    0.0,
+                    2.0
+                ]
+            },
+            "dev_metrics": {
+                "current_activity": 0.0,
+                "momentum": NaN,
+                "trend": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        }
+    },
+    "correlations": {
+        "BTC": {
+            "price_volume_correlation": -0.42378857309028994,
+            "price_dev_correlation": 0.18836918329804583,
+            "price_network_correlation": 0.07674565525643846
+        },
+        "XRP": {
+            "price_volume_correlation": -0.38436915970677427,
+            "price_dev_correlation": -0.059023231256370975,
+            "price_network_correlation": 0.5170724504010195
+        },
+        "DOGE": {
+            "price_volume_correlation": -0.17246790292169553,
+            "price_dev_correlation": 0.21108085486103795,
+            "price_network_correlation": 0.08100474844798387
+        },
+        "LTC": {
+            "price_volume_correlation": -0.33522863586645946,
+            "price_dev_correlation": NaN,
+            "price_network_correlation": 0.2860643901400942
+        }
+    }
+}
